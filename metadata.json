@@ -1,0 +1,5 @@
+{
+  "name": "EcoChef - Pantry Recipe Generator",
+  "description": "A smart recipe generator that helps you reduce food waste by creating delicious meals from ingredients you already have in your fridge using Gemini.",
+  "requestFramePermissions": []
+}
